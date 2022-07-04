@@ -10,11 +10,11 @@
 </p>
 
 ## A little bit about me
-I am a currently finishing my Software Degree at Universidad Modelo 🧑🏻‍💻
+I am a Software and Technology Engineer graduated from Universidad Modelo 🧑🏻‍💻
 <br>
 #### 🌱 Things I am currently working on: 
-- Finish my Software and Technology Degree 💻 
-- Taking online courses about AWS and Unity 🎮
+- Working on personal data projects 📊
+- Taking online courses about AWS and Unity 💻
 - Developing a Mobile App for Soccer Referees ⚽
 
 #### 📊 Some of my personal data analysis projects: 
